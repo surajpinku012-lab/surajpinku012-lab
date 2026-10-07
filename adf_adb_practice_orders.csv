@@ -1,0 +1,204 @@
+customer_id,customer_name,email,city,state,order_id,order_date,product,category,quantity,unit_price,total_amount,status,updated_date
+C0001,Priya Sharma,priya.sharma1@example.com,Hyderabad,Telangana,O00001,2026-03-13,Mouse,Electronics,2.0,900,1800,Completed,2026-03-18
+C0002,Kavya Das,kavya.das2@example.com,Noida,Uttar Pradesh,O00002,2026-01-16,Office Chair,Furniture,1.0,8500,8500,Pending,2026-01-16
+C0003,Rohan Gupta,rohan.gupta3@example.com,Noida,Uttar Pradesh,O00003,2026-04-12,Laptop,Electronics,5.0,55000,275000,Cancelled,2026-04-17
+C0004,Rohan Mohanty,rohan.mohanty4@example.com,Noida,Uttar Pradesh,O00004,2026-03-23,Mobile Phone,Electronics,1.0,28000,28000,Cancelled,2026-03-28
+C0005,Karan Singh,karan.singh5@example.com,Pune,Maharashtra,O00005,2026-02-22,Mouse,Electronics,3.0,900,2700,Cancelled,2026-02-22
+C0006,Priya Nayak,priya.nayak6@example.com,Chennai,Tamil Nadu,O00006,2026-01-23,Tablet,Electronics,3.0,22000,66000,Cancelled,2026-01-28
+C0007,Kavya Das,kavya.das7@example.com,Mumbai,Maharashtra,O00007,2026-05-31,Monitor,Electronics,5.0,15000,75000,Shipped,2026-06-05
+C0008,Manish Sahoo,manish.sahoo8@example.com,Cuttack,Odisha,O00008,2026-05-29,Laptop,Electronics,2.0,55000,110000,Pending,2026-05-29
+C0009,Priya Jena,priya.jena9@example.com,Hyderabad,Telangana,O00009,2026-03-25,Desk,Furniture,3.0,12000,36000,Shipped,2026-03-27
+C0010,Sneha Singh,sneha.singh10@example.com,Cuttack,Odisha,O00010,2026-05-06,Tablet,Electronics,2.0,22000,44000,Cancelled,2026-05-07
+C0011,Nikhil Singh,nikhil.singh11@example.com,Kolkata,West Bengal,O00011,2026-01-29,Mouse,Electronics,3.0,900,2700,Completed,2026-01-30
+C0012,Karan Jena,karan.jena12@example.com,Hyderabad,Telangana,O00012,2026-06-11,Monitor,Electronics,2.0,15000,30000,Cancelled,2026-06-12
+C0013,Nikhil Mohanty,nikhil.mohanty13@example.com,Pune,Maharashtra,O00013,2026-05-07,Mobile Phone,Electronics,2.0,28000,56000,Shipped,2026-05-12
+C0014,Manish Jena,manish.jena14@example.com,Noida,Uttar Pradesh,O00014,2026-04-23,Office Chair,Furniture,3.0,8500,25500,Cancelled,2026-04-24
+C0015,Rahul Sharma,,Cuttack,Odisha,O00015,2026-08-05,Keyboard,Electronics,2.0,1800,3600,Completed,2026-08-09
+C0016,Nikhil Jena,nikhil.jena16@example.com,Noida,Uttar Pradesh,O00016,2026-05-09,Desk,Furniture,5.0,12000,60000,Completed,2026-05-13
+C0017,Priya Gupta,priya.gupta17@example.com,Hyderabad,Telangana,O00017,2026-05-31,Printer,Office Equipment,1.0,12000,12000,Pending,2026-06-03
+C0018,Suresh Sharma,suresh.sharma18@example.com,Hyderabad,Telangana,O00018,2026-09-17,Headset,Electronics,2.0,2500,5000,Shipped,2026-09-17
+C0019,Arjun Mishra,arjun.mishra19@example.com,Bengaluru,Karnataka,O00019,2026-03-24,Keyboard,Electronics,3.0,1800,5400,Completed,2026-03-28
+C0020,Riya Nayak,riya.nayak20@example.com,Delhi,Delhi,O00020,2026-07-05,Laptop,Electronics,1.0,55000,55000,Pending,2026-07-07
+C0021,Vikram Sahoo,vikram.sahoo21@example.com,Noida,Uttar Pradesh,O00021,2026-09-06,Monitor,Electronics,1.0,15000,15000,Pending,2026-09-06
+C0022,Neha Mohanty,neha.mohanty22@example.com,Kolkata,West Bengal,O00022,2026-09-28,Keyboard,Electronics,3.0,1800,5400,Cancelled,2026-10-02
+C0023,Sneha Gupta,sneha.gupta23@example.com,Bengaluru,Karnataka,O00023,2026-07-11,Mobile Phone,Electronics,4.0,28000,112000,Cancelled,2026-07-14
+C0024,Priya Sahoo,priya.sahoo24@example.com,Bengaluru,Karnataka,O00024,2026-01-11,Monitor,Electronics,3.0,15000,45000,Pending,2026-01-15
+C0025,Manish Sahoo,manish.sahoo25@example.com,Bhubaneswar,Odisha,O00025,2026-04-28,Monitor,Electronics,1.0,15000,15000,Completed,2026-04-28
+C0026,Karan Das,karan.das26@example.com,Kolkata,West Bengal,O00026,2026-09-06,Mouse,Electronics,3.0,900,2700,Pending,2026-09-07
+C0027,Manish Mishra,manish.mishra27@example.com,Delhi,Delhi,O00027,2026-07-28,Mouse,Electronics,4.0,900,3600,Completed,2026-07-29
+C0028,Priya Jena,priya.jena28@example.com,Chennai,Tamil Nadu,O00028,2026-08-28,Office Chair,Furniture,4.0,8500,34000,Completed,2026-09-02
+C0029,Priya Sharma,priya.sharma29@example.com,Mumbai,Maharashtra,O00029,2026-05-08,Printer,Office Equipment,1.0,12000,12000,Pending,2026-05-09
+C0030,Kavya Mohanty,kavya.mohanty30@example.com,Pune,Maharashtra,O00030,2026-05-23,Office Chair,Furniture,2.0,8500,17000,Pending,2026-05-26
+C0031,Rahul Mohanty,rahul.mohanty31@example.com,Kolkata,West Bengal,O00031,2026-01-08,Monitor,Electronics,1.0,15000,15000,Pending,2026-01-08
+C0032,Ankit Jena,ankit.jena32@example.com,Delhi,Delhi,O00032,2026-07-25,Desk,Furniture,2.0,12000,24000,Pending,2026-07-25
+C0033,Nikhil Sharma,nikhil.sharma33@example.com,Mumbai,Maharashtra,O00033,2026-05-27,Mobile Phone,Electronics,4.0,28000,112000,Cancelled,2026-05-30
+C0034,Neha Sahoo,neha.sahoo34@example.com,Hyderabad,Telangana,O00034,2026-02-01,Mouse,Electronics,1.0,900,900,Shipped,2026-02-06
+C0035,Vikram Sharma,vikram.sharma35@example.com,Noida,Uttar Pradesh,O00035,2026-03-22,Desk,Furniture,5.0,12000,60000,Completed,2026-03-22
+C0036,Ankit Das,ankit.das36@example.com,Noida,Uttar Pradesh,O00036,2026-07-26,Monitor,Electronics,2.0,15000,30000,Pending,2026-07-26
+C0037,Manish Mishra,manish.mishra37@example.com,Bhubaneswar,Odisha,O00037,2026-08-03,Tablet,Electronics,1.0,22000,22000,Shipped,2026-08-08
+C0038,Pooja Sahoo,pooja.sahoo38@example.com,,Tamil Nadu,O00038,2026-07-22,Mouse,Electronics,3.0,900,2700,Shipped,2026-07-23
+C0039,Suresh Nayak,suresh.nayak39@example.com,Cuttack,Odisha,O00039,2026-02-21,Laptop,Electronics,4.0,55000,220000,Pending,2026-02-21
+C0040,Arjun Singh,arjun.singh40@example.com,Pune,Maharashtra,O00040,2026-05-06,Printer,Office Equipment,1.0,12000,12000,Shipped,2026-05-08
+C0041,Ankit Mohanty,ankit.mohanty41@example.com,Kolkata,West Bengal,O00041,2026-09-28,Mobile Phone,Electronics,5.0,28000,140000,Shipped,2026-09-28
+C0042,Priya Patel,priya.patel42@example.com,Hyderabad,Telangana,O00042,2026-03-21,Monitor,Electronics,1.0,15000,15000,Shipped,2026-03-23
+C0043,Riya Sahoo,riya.sahoo43@example.com,Chennai,Tamil Nadu,O00043,2026-09-16,Mouse,Electronics,3.0,900,2700,Shipped,2026-09-19
+C0044,Vikram Das,vikram.das44@example.com,Mumbai,Maharashtra,O00044,2026-01-02,Mobile Phone,Electronics,1.0,28000,28000,Pending,2026-01-04
+C0045,Pooja Patel,pooja.patel45@example.com,Delhi,Delhi,O00045,2026-01-05,Headset,Electronics,4.0,2500,10000,Completed,2026-01-05
+C0046,Neha Gupta,neha.gupta46@example.com,Bhubaneswar,Odisha,O00046,2026-03-17,Printer,Office Equipment,5.0,12000,60000,Pending,2026-03-20
+C0047,Vikram Singh,vikram.singh47@example.com,Chennai,Tamil Nadu,O00047,2026-04-18,Laptop,Electronics,3.0,55000,165000,Pending,2026-04-23
+C0048,Priya Nayak,priya.nayak48@example.com,Kolkata,West Bengal,O00048,2026-03-21,Office Chair,Furniture,5.0,8500,42500,Pending,2026-03-22
+C0049,Ankit Jena,ankit.jena49@example.com,Bhubaneswar,Odisha,O00049,2026-07-30,Keyboard,Electronics,3.0,1800,5400,Pending,2026-08-04
+C0050,Pooja Patel,pooja.patel50@example.com,Cuttack,Odisha,O00050,2026-08-29,Office Chair,Furniture,1.0,8500,8500,Pending,2026-08-30
+C0051,Suresh Nayak,suresh.nayak51@example.com,Hyderabad,Telangana,O00051,2026-01-13,Mouse,Electronics,2.0,900,1800,Pending,2026-01-18
+C0052,Nikhil Nayak,nikhil.nayak52@example.com,Hyderabad,Telangana,O00052,2026-06-29,Monitor,Electronics,3.0,15000,45000,Cancelled,2026-07-04
+C0053,Kavya Nayak,kavya.nayak53@example.com,Bhubaneswar,Odisha,O00053,2026-04-02,Monitor,Electronics,3.0,15000,45000,Shipped,2026-04-06
+C0054,Vikram Das,vikram.das54@example.com,Noida,Uttar Pradesh,O00054,2026-06-10,Office Chair,Furniture,3.0,8500,25500,Completed,2026-06-13
+C0055,Nikhil Mishra,nikhil.mishra55@example.com,Bengaluru,Karnataka,O00055,2026-08-12,Mobile Phone,Electronics,1.0,28000,28000,Pending,2026-08-12
+C0056,Swati Jena,swati.jena56@example.com,Cuttack,Odisha,O00056,2026-06-10,Printer,Office Equipment,5.0,12000,60000,Completed,2026-06-15
+C0057,Amit Gupta,amit.gupta57@example.com,Hyderabad,Telangana,O00057,2026-07-26,Office Chair,Furniture,3.0,8500,25500,Shipped,2026-07-31
+C0058,Kavya Patel,kavya.patel58@example.com,Bengaluru,Karnataka,O00058,2026-03-31,Office Chair,Furniture,4.0,8500,34000,Shipped,2026-04-04
+C0059,Nikhil Gupta,nikhil.gupta59@example.com,Bhubaneswar,Odisha,O00059,2026-04-18,Mobile Phone,Electronics,3.0,28000,84000,Shipped,2026-04-21
+C0060,Suresh Mohanty,suresh.mohanty60@example.com,Delhi,Delhi,O00060,2026-08-31,Mouse,Electronics,5.0,900,4500,Pending,2026-09-05
+C0061,Rahul Singh,rahul.singh61@example.com,Kolkata,West Bengal,O00061,2026-02-17,Tablet,Electronics,3.0,22000,66000,Shipped,2026-02-18
+C0062,Rohan Sahoo,rohan.sahoo62@example.com,Pune,Maharashtra,O00062,2026-05-06,Laptop,Electronics,1.0,55000,55000,Completed,2026-05-09
+C0063,Suresh Jena,suresh.jena63@example.com,Noida,Uttar Pradesh,O00063,2026-09-11,Mouse,Electronics,4.0,900,3600,Pending,2026-09-14
+C0064,Neha Sharma,neha.sharma64@example.com,Cuttack,Odisha,O00064,2026-04-01,Office Chair,Furniture,2.0,8500,17000,Cancelled,2026-04-06
+C0065,Vikram Gupta,vikram.gupta65@example.com,Bengaluru,Karnataka,O00065,2026-03-10,Monitor,Electronics,4.0,15000,60000,Shipped,2026-03-13
+C0066,Suresh Mishra,suresh.mishra66@example.com,Kolkata,West Bengal,O00066,2026-08-17,Office Chair,Furniture,5.0,8500,42500,Cancelled,2026-08-18
+C0067,Suresh Singh,suresh.singh67@example.com,Bengaluru,Karnataka,O00067,2026-09-06,Mobile Phone,Electronics,5.0,28000,140000,Pending,2026-09-11
+C0068,Pooja Mohanty,pooja.mohanty68@example.com,Cuttack,Odisha,O00068,2026-05-20,Mobile Phone,Electronics,2.0,28000,56000,Shipped,2026-05-22
+C0069,Kavya Das,kavya.das69@example.com,Pune,Maharashtra,O00069,2026-07-16,Keyboard,Electronics,2.0,1800,3600,Pending,2026-07-21
+C0070,Sneha Das,sneha.das70@example.com,Mumbai,Maharashtra,O00070,2026-08-27,Office Chair,Furniture,3.0,8500,25500,Completed,2026-08-30
+C0071,Sneha Jena,sneha.jena71@example.com,Mumbai,Maharashtra,O00071,2026-07-14,Tablet,Electronics,1.0,22000,22000,Completed,2026-07-17
+C0072,Swati Singh,swati.singh72@example.com,Mumbai,Maharashtra,O00072,2026-04-23,Office Chair,Furniture,5.0,8500,42500,Pending,2026-04-26
+C0073,Pooja Jena,pooja.jena73@example.com,Delhi,Delhi,O00073,2026-06-22,Laptop,Electronics,4.0,55000,220000,Cancelled,2026-06-27
+C0074,Ankit Mohanty,ankit.mohanty74@example.com,Pune,Maharashtra,O00074,2026-01-14,Tablet,Electronics,5.0,22000,110000,Completed,2026-01-17
+C0075,Rahul Jena,rahul.jena75@example.com,Pune,Maharashtra,O00075,2026-01-26,Desk,Furniture,2.0,12000,24000,Cancelled,2026-01-28
+C0076,Karan Sahoo,karan.sahoo76@example.com,Delhi,Delhi,O00076,2026-07-14,Printer,Office Equipment,3.0,12000,36000,Cancelled,2026-07-16
+C0077,Pooja Das,pooja.das77@example.com,Delhi,Delhi,O00077,2026-01-27,Laptop,Electronics,5.0,55000,275000,Pending,2026-01-29
+C0078,Rahul Sharma,rahul.sharma78@example.com,Bhubaneswar,Odisha,O00078,2026-01-11,Mouse,Electronics,2.0,900,1800,Pending,2026-01-15
+C0079,Rohan Patel,rohan.patel79@example.com,Delhi,Delhi,O00079,2026-04-22,Monitor,Electronics,5.0,15000,75000,Shipped,2026-04-25
+C0080,Swati Patel,swati.patel80@example.com,Noida,Uttar Pradesh,O00080,2026-03-25,Tablet,Electronics,1.0,22000,22000,Completed,2026-03-27
+C0081,Manish Sharma,manish.sharma81@example.com,Hyderabad,Telangana,O00081,2026-07-23,Tablet,Electronics,4.0,22000,88000,Pending,2026-07-28
+C0082,Rahul Mishra,rahul.mishra82@example.com,Bengaluru,Karnataka,O00082,2026-03-03,Monitor,Electronics,3.0,15000,45000,Completed,2026-03-07
+C0083,Swati Gupta,swati.gupta83@example.com,Mumbai,Maharashtra,O00083,2026-09-17,Printer,Office Equipment,,12000,12000,Shipped,2026-09-22
+C0084,Aarav Jena,aarav.jena84@example.com,Delhi,Delhi,O00084,2026-07-05,Monitor,Electronics,4.0,15000,60000,Cancelled,2026-07-10
+C0085,Neha Jena,neha.jena85@example.com,Pune,Maharashtra,O00085,2026-09-05,Headset,Electronics,3.0,2500,7500,Cancelled,2026-09-08
+C0086,Manish Singh,manish.singh86@example.com,Chennai,Tamil Nadu,O00086,2026-05-23,Mouse,Electronics,1.0,900,900,Pending,2026-05-26
+C0087,Suresh Mishra,suresh.mishra87@example.com,Noida,Uttar Pradesh,O00087,2026-01-15,Office Chair,Furniture,3.0,8500,25500,Shipped,2026-01-18
+C0088,Ankit Mohanty,ankit.mohanty88@example.com,Bengaluru,Karnataka,O00088,2026-06-24,Printer,Office Equipment,3.0,12000,36000,Shipped,2026-06-26
+C0089,Kavya Sharma,kavya.sharma89@example.com,Kolkata,West Bengal,O00089,2026-05-04,Mouse,Electronics,1.0,900,900,Cancelled,2026-05-09
+C0090,Meera Gupta,meera.gupta90@example.com,Bengaluru,Karnataka,O00090,2026-08-18,Desk,Furniture,4.0,12000,48000,Completed,2026-08-18
+C0091,Amit Sahoo,amit.sahoo91@example.com,Mumbai,Maharashtra,O00091,2026-07-08,Mouse,Electronics,3.0,900,2700,Shipped,2026-07-11
+C0092,Anjali Gupta,anjali.gupta92@example.com,Chennai,Tamil Nadu,O00092,2026-05-19,Printer,Office Equipment,4.0,12000,48000,Shipped,2026-05-21
+C0093,Rohan Das,rohan.das93@example.com,Bengaluru,Karnataka,O00093,2026-04-05,Printer,Office Equipment,1.0,12000,12000,Pending,2026-04-06
+C0094,Meera Singh,meera.singh94@example.com,Noida,Uttar Pradesh,O00094,2026-05-25,Headset,Electronics,5.0,2500,12500,Pending,2026-05-25
+C0095,Amit Sahoo,amit.sahoo95@example.com,Chennai,Tamil Nadu,O00095,2026-01-08,Keyboard,Electronics,3.0,1800,5400,Pending,2026-01-13
+C0096,Pooja Sharma,pooja.sharma96@example.com,Bhubaneswar,Odisha,O00096,2026-03-06,Headset,Electronics,3.0,2500,7500,Cancelled,2026-03-11
+C0097,Priya Sharma,priya.sharma97@example.com,Noida,Uttar Pradesh,O00097,2026-09-03,Mobile Phone,Electronics,4.0,28000,112000,Shipped,2026-09-06
+C0098,Ankit Sharma,ankit.sharma98@example.com,Hyderabad,Telangana,O00098,2026-02-03,Desk,Furniture,1.0,12000,12000,Cancelled,2026-02-06
+C0099,Rahul Mishra,rahul.mishra99@example.com,Bhubaneswar,Odisha,O00099,2026-06-05,Keyboard,Electronics,2.0,1800,3600,Pending,2026-06-05
+C0100,Priya Gupta,priya.gupta100@example.com,Mumbai,Maharashtra,O00100,2026-04-26,Tablet,Electronics,5.0,22000,110000,Cancelled,2026-04-30
+C0101,Suresh Mohanty,suresh.mohanty101@example.com,Hyderabad,Telangana,O00101,2026-06-06,Tablet,Electronics,4.0,22000,88000,Completed,2026-06-10
+C0102,Riya Das,riya.das102@example.com,Bengaluru,Karnataka,O00102,2026-02-11,Mouse,Electronics,3.0,900,2700,Pending,2026-02-12
+C0103,Ankit Gupta,ankit.gupta103@example.com,Cuttack,Odisha,O00103,2026-07-29,Keyboard,Electronics,1.0,1800,1800,Cancelled,2026-08-01
+C0104,Amit Sharma,amit.sharma104@example.com,Bengaluru,Karnataka,O00104,2026-08-21,Mobile Phone,Electronics,3.0,28000,84000,Pending,2026-08-21
+C0105,Pooja Mishra,pooja.mishra105@example.com,Bengaluru,Karnataka,O00105,2026-04-26,Office Chair,Furniture,1.0,8500,8500,Pending,2026-05-01
+C0106,Pooja Patel,pooja.patel106@example.com,Cuttack,Odisha,O00106,2026-06-07,Laptop,Electronics,2.0,55000,110000,Shipped,2026-06-11
+C0107,Suresh Das,suresh.das107@example.com,Delhi,Delhi,O00107,2026-05-20,Mobile Phone,Electronics,4.0,28000,112000,Cancelled,2026-05-24
+C0108,Suresh Das,suresh.das108@example.com,Noida,Uttar Pradesh,O00108,2026-06-15,Laptop,Electronics,4.0,55000,220000,Shipped,2026-06-19
+C0109,Aarav Das,aarav.das109@example.com,Bengaluru,Karnataka,O00109,2026-01-11,Tablet,Electronics,5.0,22000,110000,Shipped,2026-01-16
+C0110,Manish Sharma,manish.sharma110@example.com,Pune,Maharashtra,O00110,2026-08-15,Desk,Furniture,5.0,12000,60000,Pending,2026-08-17
+C0111,Manish Jena,manish.jena111@example.com,Delhi,Delhi,O00111,2026-06-28,Monitor,Electronics,4.0,15000,60000,Shipped,2026-07-01
+C0112,Karan Das,karan.das112@example.com,Pune,Maharashtra,O00112,2026-09-11,Printer,Office Equipment,4.0,12000,48000,Cancelled,2026-09-13
+C0113,Kavya Sharma,kavya.sharma113@example.com,Delhi,Delhi,O00113,2026-05-10,Monitor,Electronics,3.0,15000,45000,Completed,2026-05-12
+C0114,Nikhil Gupta,nikhil.gupta114@example.com,Bhubaneswar,Odisha,O00114,2026-07-31,Headset,Electronics,4.0,2500,10000,Pending,2026-07-31
+C0115,Arjun Nayak,arjun.nayak115@example.com,Noida,Uttar Pradesh,O00115,2026-01-27,Desk,Furniture,4.0,12000,48000,Shipped,2026-01-28
+C0116,Kavya Patel,kavya.patel116@example.com,Hyderabad,Telangana,O00116,2026-03-04,Desk,Furniture,4.0,12000,48000,Pending,2026-03-04
+C0117,Ankit Singh,ankit.singh117@example.com,Kolkata,West Bengal,O00117,2026-07-28,Laptop,Electronics,5.0,55000,275000,Pending,2026-07-28
+C0118,Priya Mohanty,priya.mohanty118@example.com,Cuttack,Odisha,O00118,2026-05-30,Keyboard,Electronics,4.0,1800,7200,Shipped,2026-06-03
+C0119,Anjali Mohanty,anjali.mohanty119@example.com,Delhi,Delhi,O00119,2026-03-16,Mouse,Electronics,4.0,900,3600,Pending,2026-03-19
+C0120,Riya Gupta,riya.gupta120@example.com,Pune,Maharashtra,O00120,2026-08-01,Monitor,Electronics,3.0,15000,45000,Shipped,2026-08-03
+C0121,Aarav Singh,aarav.singh121@example.com,Hyderabad,Telangana,O00121,2026-09-08,Tablet,Electronics,5.0,22000,110000,Cancelled,2026-09-09
+C0122,Kavya Mohanty,kavya.mohanty122@example.com,Chennai,Tamil Nadu,O00122,2026-07-13,Printer,Office Equipment,5.0,12000,60000,Shipped,2026-07-16
+C0123,Sneha Sahoo,sneha.sahoo123@example.com,Noida,Uttar Pradesh,O00123,2026-07-30,Office Chair,Furniture,2.0,8500,17000,Shipped,2026-07-30
+C0124,Meera Jena,meera.jena124@example.com,Mumbai,Maharashtra,O00124,2026-01-19,Keyboard,Electronics,4.0,1800,7200,Shipped,2026-01-20
+C0125,Priya Mohanty,priya.mohanty125@example.com,Cuttack,Odisha,O00125,2026-01-08,Headset,Electronics,4.0,2500,10000,Pending,2026-01-13
+C0126,Anjali Patel,anjali.patel126@example.com,Cuttack,Odisha,O00126,2026-06-23,Desk,Furniture,3.0,12000,36000,Cancelled,2026-06-27
+C0127,Rahul Nayak,rahul.nayak127@example.com,Kolkata,West Bengal,O00127,2026-09-07,Office Chair,Furniture,3.0,8500,25500,Completed,2026-09-11
+C0128,Riya Das,riya.das128@example.com,Bengaluru,Karnataka,O00128,2026-02-16,Mobile Phone,Electronics,2.0,28000,56000,Completed,2026-02-19
+C0129,Priya Mohanty,priya.mohanty129@example.com,Pune,Maharashtra,O00129,2026-01-24,Mobile Phone,Electronics,1.0,28000,28000,Completed,2026-01-26
+C0130,Amit Nayak,amit.nayak130@example.com,Chennai,Tamil Nadu,O00130,2026-05-06,Office Chair,Furniture,2.0,8500,17000,Cancelled,2026-05-10
+C0131,Manish Patel,manish.patel131@example.com,Pune,Maharashtra,O00131,2026-07-15,Keyboard,Electronics,1.0,1800,1800,Pending,2026-07-19
+C0132,Meera Mishra,meera.mishra132@example.com,Pune,Maharashtra,O00132,2026-05-11,Mouse,Electronics,4.0,900,3600,Shipped,2026-05-14
+C0133,Aarav Mohanty,aarav.mohanty133@example.com,Hyderabad,Telangana,O00133,2026-02-07,Headset,Electronics,2.0,2500,5000,Shipped,2026-02-10
+C0134,Manish Singh,manish.singh134@example.com,Mumbai,Maharashtra,O00134,2026-06-04,Mobile Phone,Electronics,4.0,28000,112000,Cancelled,2026-06-05
+C0135,Meera Das,meera.das135@example.com,Bengaluru,Karnataka,O00135,2026-07-03,Office Chair,Furniture,5.0,8500,42500,Shipped,2026-07-07
+C0136,Amit Sharma,amit.sharma136@example.com,Mumbai,Maharashtra,O00136,2026-01-26,Mobile Phone,Electronics,1.0,28000,28000,Cancelled,2026-01-30
+C0137,Amit Sahoo,amit.sahoo137@example.com,Noida,Uttar Pradesh,O00137,2026-04-08,Printer,Office Equipment,2.0,12000,24000,Shipped,2026-04-12
+C0138,Neha Das,neha.das138@example.com,Bhubaneswar,Odisha,O00138,2026-01-18,Mobile Phone,Electronics,4.0,28000,112000,Shipped,2026-01-22
+C0139,Neha Das,neha.das139@example.com,Hyderabad,Telangana,O00139,2026-03-31,Printer,Office Equipment,4.0,12000,48000,Pending,2026-04-01
+C0140,Kavya Nayak,kavya.nayak140@example.com,Kolkata,West Bengal,O00140,2026-03-26,Headset,Electronics,3.0,2500,7500,Cancelled,2026-03-28
+C0141,Amit Nayak,amit.nayak141@example.com,Cuttack,Odisha,O00141,2026-03-14,Desk,Furniture,1.0,12000,12000,Cancelled,2026-03-15
+C0142,Kavya Nayak,kavya.nayak142@example.com,Cuttack,Odisha,O00142,2026-05-16,Office Chair,Furniture,1.0,8500,8500,Completed,2026-05-20
+C0143,Suresh Nayak,suresh.nayak143@example.com,Hyderabad,Telangana,O00143,2026-07-10,Tablet,Electronics,4.0,22000,88000,Pending,2026-07-10
+C0144,Meera Sharma,meera.sharma144@example.com,Noida,Uttar Pradesh,O00144,2026-04-24,Headset,Electronics,3.0,2500,7500,Completed,2026-04-29
+C0145,Suresh Singh,suresh.singh145@example.com,Mumbai,Maharashtra,O00145,2026-01-24,Monitor,Electronics,2.0,15000,30000,Shipped,2026-01-24
+C0146,Meera Das,meera.das146@example.com,Cuttack,Odisha,O00146,2026-03-11,Mouse,Electronics,5.0,900,4500,Cancelled,2026-03-14
+C0147,Swati Gupta,swati.gupta147@example.com,Mumbai,Maharashtra,O00147,2026-08-01,Tablet,Electronics,2.0,22000,44000,Completed,2026-08-06
+C0148,Meera Mishra,meera.mishra148@example.com,Mumbai,Maharashtra,O00148,2026-07-09,Mobile Phone,Electronics,1.0,28000,28000,Cancelled,2026-07-10
+C0149,Suresh Sahoo,suresh.sahoo149@example.com,Chennai,Tamil Nadu,O00149,2026-07-03,Monitor,Electronics,3.0,15000,45000,Cancelled,2026-07-03
+C0150,Pooja Sahoo,pooja.sahoo150@example.com,Cuttack,Odisha,O00150,2026-04-19,Desk,Furniture,1.0,12000,12000,Completed,2026-04-24
+C0151,Vikram Nayak,vikram.nayak151@example.com,Bengaluru,Karnataka,O00151,2026-04-16,Keyboard,Electronics,5.0,1800,9000,Pending,2026-04-16
+C0152,Manish Sahoo,manish.sahoo152@example.com,Bengaluru,Karnataka,O00152,2026-01-02,Printer,Office Equipment,2.0,12000,24000,Pending,2026-01-04
+C0153,Neha Gupta,neha.gupta153@example.com,Hyderabad,Telangana,O00153,2026-01-14,Keyboard,Electronics,1.0,1800,1800,Completed,2026-01-15
+C0154,Swati Sahoo,swati.sahoo154@example.com,Noida,Uttar Pradesh,O00154,2026-03-31,Printer,Office Equipment,1.0,12000,12000,Completed,2026-04-02
+C0155,Neha Jena,neha.jena155@example.com,Kolkata,West Bengal,O00155,2026-09-01,Monitor,Electronics,1.0,15000,15000,Shipped,2026-09-04
+C0156,Arjun Mishra,arjun.mishra156@example.com,Cuttack,Odisha,O00156,2026-04-24,Desk,Furniture,5.0,12000,60000,Completed,2026-04-28
+C0157,Arjun Singh,arjun.singh157@example.com,Delhi,Delhi,O00157,2026-09-03,Laptop,Electronics,1.0,55000,55000,Cancelled,2026-09-06
+C0158,Priya Mohanty,priya.mohanty158@example.com,Delhi,Delhi,O00158,2026-06-14,Monitor,Electronics,1.0,15000,15000,Pending,2026-06-18
+C0159,Rahul Patel,rahul.patel159@example.com,Hyderabad,Telangana,O00159,2026-06-16,Tablet,Electronics,5.0,22000,110000,Shipped,2026-06-19
+C0160,Suresh Gupta,suresh.gupta160@example.com,Noida,Uttar Pradesh,O00160,2026-02-28,Office Chair,Furniture,1.0,8500,8500,Pending,2026-03-05
+C0161,Anjali Mohanty,anjali.mohanty161@example.com,Bengaluru,Karnataka,O00161,2026-08-21,Office Chair,Furniture,3.0,8500,25500,Cancelled,2026-08-24
+C0162,Priya Nayak,priya.nayak162@example.com,Mumbai,Maharashtra,O00162,2026-07-11,Printer,Office Equipment,3.0,12000,36000,Cancelled,2026-07-12
+C0163,Rahul Das,rahul.das163@example.com,Cuttack,Odisha,O00163,2026-02-19,Monitor,Electronics,4.0,15000,60000,Shipped,2026-02-24
+C0164,Neha Gupta,neha.gupta164@example.com,Bhubaneswar,Odisha,O00164,2026-06-18,Tablet,Electronics,5.0,22000,110000,Completed,2026-06-23
+C0165,Anjali Nayak,anjali.nayak165@example.com,Mumbai,Maharashtra,O00165,2026-06-09,Laptop,Electronics,3.0,55000,165000,Completed,2026-06-11
+C0166,Manish Gupta,manish.gupta166@example.com,Bengaluru,Karnataka,O00166,2026-04-25,Keyboard,Electronics,4.0,1800,7200,Shipped,2026-04-25
+C0167,Kavya Nayak,kavya.nayak167@example.com,Cuttack,Odisha,O00167,2026-04-26,Mobile Phone,Electronics,5.0,28000,140000,Completed,2026-04-29
+C0168,Riya Singh,riya.singh168@example.com,Bhubaneswar,Odisha,O00168,2026-06-08,Keyboard,Electronics,3.0,1800,5400,Shipped,2026-06-10
+C0169,Aarav Patel,aarav.patel169@example.com,Pune,Maharashtra,O00169,2026-02-05,Tablet,Electronics,4.0,22000,88000,Completed,2026-02-06
+C0170,Rahul Gupta,rahul.gupta170@example.com,Bengaluru,Karnataka,O00170,2026-08-21,Office Chair,Furniture,4.0,8500,34000,Pending,2026-08-23
+C0171,Swati Singh,swati.singh171@example.com,Chennai,Tamil Nadu,O00171,2026-02-13,Tablet,Electronics,5.0,22000,110000,Pending,2026-02-13
+C0172,Ankit Mishra,ankit.mishra172@example.com,Bhubaneswar,Odisha,O00172,2026-08-15,Monitor,Electronics,3.0,15000,45000,Cancelled,2026-08-20
+C0173,Meera Mishra,meera.mishra173@example.com,Delhi,Delhi,O00173,2026-04-21,Office Chair,Furniture,3.0,8500,25500,Completed,2026-04-25
+C0174,Swati Jena,swati.jena174@example.com,Cuttack,Odisha,O00174,2026-09-07,Mobile Phone,Electronics,5.0,28000,140000,Shipped,2026-09-11
+C0175,Vikram Sahoo,vikram.sahoo175@example.com,Mumbai,Maharashtra,O00175,2026-01-04,Tablet,Electronics,1.0,22000,22000,Shipped,2026-01-05
+C0176,Sneha Patel,sneha.patel176@example.com,Hyderabad,Telangana,O00176,2026-03-03,Mobile Phone,Electronics,3.0,28000,84000,Cancelled,2026-03-03
+C0177,Anjali Patel,anjali.patel177@example.com,Pune,Maharashtra,O00177,2026-04-28,Office Chair,Furniture,5.0,8500,42500,Shipped,2026-05-02
+C0178,Rahul Jena,rahul.jena178@example.com,Bhubaneswar,Odisha,O00178,2026-08-24,Office Chair,Furniture,1.0,8500,8500,Shipped,2026-08-24
+C0179,Manish Jena,manish.jena179@example.com,Noida,Uttar Pradesh,O00179,2026-05-29,Office Chair,Furniture,4.0,8500,34000,Cancelled,2026-05-29
+C0180,Aarav Nayak,aarav.nayak180@example.com,Pune,Maharashtra,O00180,2026-07-05,Tablet,Electronics,4.0,22000,88000,Cancelled,2026-07-05
+C0181,Priya Sahoo,priya.sahoo181@example.com,Mumbai,Maharashtra,O00181,2026-09-26,Tablet,Electronics,4.0,22000,88000,Cancelled,2026-09-26
+C0182,Amit Nayak,amit.nayak182@example.com,Bengaluru,Karnataka,O00182,2026-02-09,Printer,Office Equipment,2.0,12000,24000,Completed,2026-02-13
+C0183,Arjun Gupta,arjun.gupta183@example.com,Bengaluru,Karnataka,O00183,2026-03-17,Printer,Office Equipment,3.0,12000,36000,Completed,2026-03-18
+C0184,Neha Singh,neha.singh184@example.com,Bengaluru,Karnataka,O00184,2026-03-20,Keyboard,Electronics,5.0,1800,9000,Completed,2026-03-25
+C0185,Ankit Mohanty,ankit.mohanty185@example.com,Delhi,Delhi,O00185,2026-08-18,Tablet,Electronics,5.0,22000,110000,Shipped,2026-08-23
+C0186,Karan Patel,karan.patel186@example.com,Delhi,Delhi,O00186,2026-08-15,Monitor,Electronics,4.0,15000,60000,Shipped,2026-08-20
+C0187,Pooja Mishra,pooja.mishra187@example.com,Bhubaneswar,Odisha,O00187,2026-02-07,Printer,Office Equipment,5.0,12000,60000,Cancelled,2026-02-09
+C0188,Suresh Sharma,suresh.sharma188@example.com,Bhubaneswar,Odisha,O00188,2026-02-09,Printer,Office Equipment,3.0,12000,36000,Completed,2026-02-14
+C0189,Riya Mishra,riya.mishra189@example.com,Kolkata,West Bengal,O00189,2026-01-22,Office Chair,Furniture,4.0,8500,34000,Pending,2026-01-25
+C0190,Karan Mishra,karan.mishra190@example.com,Delhi,Delhi,O00190,2026-02-01,Headset,Electronics,2.0,2500,5000,Completed,2026-02-04
+C0191,Karan Das,karan.das191@example.com,Kolkata,West Bengal,O00191,2026-05-07,Keyboard,Electronics,1.0,1800,1800,Cancelled,2026-05-12
+C0192,Suresh Gupta,suresh.gupta192@example.com,Kolkata,West Bengal,O00192,2026-07-06,Tablet,Electronics,2.0,22000,44000,Shipped,2026-07-08
+C0193,Nikhil Jena,nikhil.jena193@example.com,Chennai,Tamil Nadu,O00193,2026-06-21,Tablet,Electronics,1.0,22000,22000,Shipped,2026-06-21
+C0194,Priya Gupta,priya.gupta194@example.com,Mumbai,Maharashtra,O00194,2026-03-18,Mobile Phone,Electronics,3.0,28000,84000,Completed,2026-03-20
+C0195,Manish Patel,manish.patel195@example.com,Chennai,Tamil Nadu,O00195,2026-03-08,Mobile Phone,Electronics,4.0,28000,112000,Completed,2026-03-12
+C0196,Amit Gupta,amit.gupta196@example.com,Mumbai,Maharashtra,O00196,2026-09-27,Printer,Office Equipment,2.0,12000,24000,Cancelled,2026-09-27
+C0197,Arjun Nayak,arjun.nayak197@example.com,Bhubaneswar,Odisha,O00197,2026-04-03,Printer,Office Equipment,3.0,12000,36000,Shipped,2026-04-04
+C0198,Meera Sahoo,meera.sahoo198@example.com,Bengaluru,Karnataka,O00198,2026-02-09,Keyboard,Electronics,2.0,1800,3600,Completed,2026-02-11
+C0199,Arjun Gupta,arjun.gupta199@example.com,Kolkata,West Bengal,O00199,2026-03-09,Laptop,Electronics,3.0,55000,165000,Cancelled,2026-03-13
+C0200,Neha Patel,neha.patel200@example.com,Pune,Maharashtra,O00200,2026-08-13,Tablet,Electronics,2.0,22000,44000,Cancelled,2026-08-13
+C0025,Manish Sahoo,manish.sahoo25@example.com,Bhubaneswar,Odisha,O00025,2026-04-28,Monitor,Electronics,1.0,15000,15000,Completed,2026-04-28
+C0072,Swati Singh,swati.singh72@example.com,Mumbai,Maharashtra,O00072,2026-04-23,Office Chair,Furniture,5.0,8500,42500,Pending,2026-04-26
+C0129,Priya Mohanty,priya.mohanty129@example.com,Pune,Maharashtra,O00129,2026-01-24,Mobile Phone,Electronics,1.0,28000,28000,Completed,2026-01-26
